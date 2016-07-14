@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    
+<head>
+<title>HTML Test</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+  h1 {text-align: right; color: red}
+  p {text-align: justify;}
+  div {text-align: center;}
+  
+  .tst1 {text-align: center; }
+  #tst2 {text-align: left;}
+  h2#tst2 {color: red;}
+</style>
+</head>
+
+<body>
+  <h1>This heading text is aligned to the right side. This is extra text to fill up space.</h1><hr />
+
+  <p>The text-alignment for this paragraph text is set to justify. Both the left and right sides of the text are aligned. This is extra text to fill up space. This is extra text to fill up space. This is extra text to fill up space. This is extra text to fill up space. This is extra text to fill up space.</p><hr />
+
+  <h1>The h1 text-align set to center.</h1>
+  <h2 id="tst2">The h2 text has a style declaration of id applied.</h2>
+  <h3>The h3 text-align set to left.</h3>
+  <p>The p text-align set to center.</p>
+  
+  <h1 class="tst1">Style applies to this element.</h1>
+  <p class="tst1">Style applies to this element.</p>
+  
+  <div>
+    <h2>This heading text, and the following image, are centered.</h2>
+    <img src="eb.jpg" alt="eight ball" height="110" width="110" />
+  </div>
+</body></html>                

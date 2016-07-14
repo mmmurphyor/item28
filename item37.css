@@ -1,0 +1,22 @@
+.background{
+	background-color: #b3ecff;
+	height: 900px;
+}
+
+.header1{
+	color: darkblue;
+	text-align: center;
+	padding-top: 20px;
+}
+.body{
+	text-align: center;
+	font-size: 18px;
+	padding: 15px;
+}
+
+p#ID1{
+	font-weight: bolder;
+}
+p#ID2{
+	text-align: center;
+}
